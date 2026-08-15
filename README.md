@@ -1,6 +1,6 @@
 # Hi, I'm smile_kun 👋
 
-🎓 Student at KBTU, CS and Software Engineering
+🎓 Student at KBTU, CS and Software Engineering  
 💻 I love coding, mostly in Python
 
 ## Tech Stack
