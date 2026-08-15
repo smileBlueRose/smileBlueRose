@@ -1,4 +1,4 @@
-# Hi, I'm smile_kun 👋
+# Hi, I'm Nauryzbek 👋
 
 🎓 Student at KBTU, CS and Software Engineering  
 💻 I love coding, mostly in Python
