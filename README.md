@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm smile_kun 👋
 
-<!--
-**smileBlueRose/smileBlueRose** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student at KBTU, CS and Software Engineering
+💻 I love coding, mostly in Python
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages:** Python, C
+- **Backend:** FastAPI, Django
+- **Database:** MySQL, PostgreSQL
+- **Cloud:** AWS, Google Cloud
+
+## Connect with me
+
+- Telegram: [@smile04tn](https://t.me/smile04tn)
+- WhatsApp: [@smile_kun](https://wa.me/smile_kun)
